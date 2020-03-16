@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DYtool</string>
+    <string name="accessibility_service_description">获取无障碍消息</string>
+</resources>

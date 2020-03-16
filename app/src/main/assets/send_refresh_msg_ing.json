@@ -1,0 +1,20 @@
+{
+  "id": 1,
+  "is_refresh": 1,
+  "refresh_times": 10,
+  "title": "发送弹幕信息",
+  "body": [
+    {
+      "type": 7,
+      "text": "虎哥说车很棒！！！！！！"
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 4,
+      "key_event_code": 66
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".accessibility.DYHandleActivity">
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/text_context"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:textColor="#000"
+        android:hint="输入公评发送信息内容"
+        android:textColorHint="@color/colorAccent"
+        android:layout_height="@dimen/base_line" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/text_status"
+        android:textColor="#000"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_send"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:text="公评发送"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:layout_height="wrap_content" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/btn_open_cart"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:text="公评发送"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:layout_height="wrap_content" />
+</LinearLayout>

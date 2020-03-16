@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "title": "发送弹幕信息",
+  "body": [
+    {
+      "type": 1,
+      "delay_time": 1000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    }
+  ]
+}

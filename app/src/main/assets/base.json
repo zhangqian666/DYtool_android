@@ -1,0 +1,27 @@
+{
+  "id": 1,
+  "title": "发送弹幕信息",
+  "is_refresh": 1,
+  "refresh_times": 1,
+  "body": [
+    {
+      "app_package": "",
+      "user_url": "",
+      "type": 0,
+      "text": "发送内容",
+      "delay_time": 1000,
+      "click_potion": {
+        "x": 100.0,
+        "y": 100.0
+      },
+      "swipe": {
+        "x1": 1.0,
+        "y1": 1.0,
+        "x2": 1.0,
+        "y2": 1.0,
+        "time": 100
+      },
+      "key_event_code": 1
+    }
+  ]
+}

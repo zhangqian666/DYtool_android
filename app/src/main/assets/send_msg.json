@@ -1,0 +1,92 @@
+{
+  "id": 1,
+  "title": "发送弹幕信息",
+  "body": [
+    {
+      "type": 8,
+      "user_url": "#在抖音，记录美好生活#【小亦欢】正在直播，来和我一起支持TA吧。复制下方链接，打开【抖音短视频】，直接观看直播！ https://v.douyin.com/nQwCoA/"
+    },
+    {
+      "type": 0,
+      "app_package": "com.ss.android.ugc.aweme"
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 2,
+      "click_potion": {
+        "x": 540,
+        "y": 1500
+      }
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 2,
+      "click_potion": {
+        "x": 70,
+        "y": 1850
+      }
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 5,
+      "text": "发送内容"
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 4,
+      "key_event_code": 66
+    },
+    {
+      "type": 1,
+      "delay_time": 3000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    },
+    {
+      "type": 1,
+      "delay_time": 1000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    },
+    {
+      "type": 1,
+      "delay_time": 1000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    },
+    {
+      "type": 1,
+      "delay_time": 1000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    },
+    {
+      "type": 1,
+      "delay_time": 1000
+    },
+    {
+      "type": 4,
+      "key_event_code": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1,
+  "title": "发送弹幕信息",
+  "body": [
+    {
+      "type": 8,
+      "user_url": "#在抖音，记录美好生活#【虎哥说车】正在直播，来和我一起支持TA吧。复制下方链接，打开【抖音短视频】，直接观看直播！ https://v.douyin.com/nHANsP/"
+    },
+    {
+      "type": 0,
+      "app_package": "com.ss.android.ugc.aweme"
+    },
+    {
+      "type": 1,
+      "delay_time": 4000
+    },
+    {
+      "type": 2,
+      "click_potion": {
+        "x": 540,
+        "y": 1500
+      }
+    },
+    {
+      "type": 1,
+      "delay_time": 4000
+    },
+    {
+      "type": 2,
+      "click_potion": {
+        "x": 70,
+        "y": 1850
+      }
+    }
+  ]
+}

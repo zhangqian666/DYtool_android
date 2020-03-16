@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".adbmodel.MainActivity">
+
+    <TextView
+        android:id="@+id/tv_root_status"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="未root，需要root设备"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/tv_dev_info"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="正在获取信息"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+
+    <TextView
+        android:id="@+id/tv_service_status"
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text="未连接服务器"
+        android:layout_height="wrap_content"
+        android:textColor="#000" />
+
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:layout_marginTop="@dimen/base_margin_top"
+        android:text="测试位置"
+        android:textColor="@color/colorAccent"
+        android:textSize="20sp"
+        android:id="@+id/btn_test_point"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
